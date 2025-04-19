@@ -1,0 +1,10 @@
+pandas
+numpy
+filterpy
+scikit-learn
+seaborn
+matplotlib
+pyswarm
+xgboost
+gymnasium
+stable-baselines3
